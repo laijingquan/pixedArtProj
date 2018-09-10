@@ -1,0 +1,95 @@
+Id,English
+tabbar_usersWorks,My Feed
+appname,Color by Number
+appname_ios,Color by Number #Coloring Book
+tabbar_content,Library
+tabbar_menu,Menu
+contextMenu_continue,Continue
+contextMenu_restart,Restart
+contextMenu_delete,Delete
+menu_title,Menu
+menu_removeAds,Remove ads
+menu_rateIt,Write review
+menu_contactUs,Contact us
+contactUs_to,@x-flow.app
+contactUs_subject,"%AppName%, %Platform%"
+contactUs_body,\n\n\nPlease don't delete this text:\nAppName: %AppName%\nPlatfom: %Platfom%\nAppVersion: %AppVersion%\n
+rateIt_title,Rate it
+rateIt_body,Would you like to rate this App?
+rateIt_confirm,Rate
+rateIt_cancel,Later
+rasult_download,Save
+rasult_other,Other...
+result_picSaved,Saved
+localNotification_yy_title,You have unfinished picture
+localNotification_yy_body,Hey! Coloring pictures are waitng for you!
+localNotification_02_title,Let's relax! ☺️
+localNotification_02_body,We have a lot of pictures for you to color 🎨
+localNotification_03_title,Finish your coloring picture 😜
+localNotification_03_body,✨ You have a beautiful picture to color 🌺
+localNotification_04_title,It's time for coloring pages! 🌁 🚀 🌁
+localNotification_04_body,"🤗 Relax your brain, color nice pictures! 🤗"
+game_wrongPaint,Wrong cell
+game_wrongPalette,"No cells with color ""1"""
+Caption 3,For Adults and Kids
+menu_solitaire,Play Solitaire
+menu_sudoku,Play Sudoku
+label_daily,Daily Coloring
+label_new,New
+panel_noInet,No Internet Connection
+popup_noInet_title,No Internet Connection
+popup_noInet_body,Please check your internet connection settings
+popup_noInet_cancel,Cancel
+popup_noInet_again,Try Again
+popup_sync_body,Synchronization with the server is in progress. Try again later.
+popup_sync_ok,Ok
+push_daily_title,Color New Image!
+push_daily_body,Enjoy new images every day
+push_newContent_title_01,Great News!
+push_newContent_body_01,New images are available. Color Now!
+menu_restorePurchases,Restore purchases
+loading,Loading
+tabbar_daily,Daily
+hints_toast_selectColor,Pick a color from the palette
+hints_toast_alreadyColored,Already colored
+filter_search,Filter
+filter_showAllCategories,All
+filter_hideColored,Hide colored
+daily_bonus,Daily Bonus
+adRewarded_tltle,More hints
+adRewarded_bodyHint,Watch an ad to get hint
+adRewarded_bodyMagic,Watch an ad to get hints
+adRewarded_Cancel,Cancel
+adRewarded_Watch,Watch
+localNotification_01_title,Mamma mia 😲
+localNotification_01_body,🔥 What an image is waiting for you! 🔥
+loading_skip,Skip
+loading_error,Loading error
+category_bonus_emptyText,Join our Facebook community and find exclusive images
+category_bonus_emptyButton,Find more
+filter_bonus_findMore,Find more
+bonus_popup_title,Bonus
+bonus_popup_cta,Claim
+broken_link_title,Uh-oh!
+broken_link_body,That was an invalid link. Find info about upcoming events on our Facebook page
+hints_toast_hints0,No Ad available. Try again later.
+filter_bonusPictures,Bonus
+tabbar_news,News
+contextMenu_share,Share
+featuredText_open,Open
+permission_photo,Pictures will be saved in photo gallery.
+terms,Terms of use
+tabbar_settings,Settings
+privacy,Privacy policy
+reclaim_popup_title,Uh-oh!
+reclaim_popup_body,You already claimed this bonus
+bad_connect_label,Slow connection
+solved_page_share,Share
+solved_page_anim,Animate
+solved_page_save,Save
+design_upd_line_1,Check
+design_upd_line_2,out our new
+design_upd_line_3,design!
+design_upd_body,You can switch to old design in settings
+switch_new_design,Switch to the new design
+switch_legacy_design,Switch to the old design

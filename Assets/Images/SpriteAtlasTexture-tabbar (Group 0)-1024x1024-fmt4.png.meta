@@ -1,0 +1,1090 @@
+fileFormatVersion: 2
+guid: 8c37662b1b6641879963c25d38047cdf
+timeCreated: 1536527005
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tapbar_news_09
+    21300002: tapbar_daily_08
+    21300004: tapbar_myfeed_01
+    21300006: tapbar_myfeed_00
+    21300008: tapbar_news_06
+    21300010: tapbar_daily_06
+    21300012: tapbar_news_11
+    21300014: tapbar_settings_13
+    21300016: tapbar_settings_05
+    21300018: tapbar_myfeed_02
+    21300020: tapbar_myfeed_04
+    21300022: tapbar_news_10
+    21300024: tapbar_myfeed_07
+    21300026: tapbar_library_06
+    21300028: tapbar_library_01
+    21300030: tapbar_library_13
+    21300032: tapbar_myfeed_09
+    21300034: tapbar_news_12
+    21300036: tapbar_myfeed_05
+    21300038: tapbar_daily_00
+    21300040: tapbar_myfeed_12
+    21300042: tapbar_daily_05
+    21300044: tapbar_myfeed_03
+    21300046: tapbar_myfeed_06
+    21300048: tapbar_daily_03
+    21300050: tapbar_settings_00
+    21300052: tapbar_settings_10
+    21300054: tapbar_settings_06
+    21300056: tapbar_library_12
+    21300058: tapbar_library_10
+    21300060: tapbar_library_05
+    21300062: tapbar_myfeed_13
+    21300064: tapbar_myfeed_10
+    21300066: tapbar_daily_01
+    21300068: tapbar_news_04
+    21300070: tapbar_library_03
+    21300072: tapbar_myfeed_08
+    21300074: tapbar_daily_04
+    21300076: tapbar_news_03
+    21300078: tapbar_library_08
+    21300080: tapbar_news_02
+    21300082: tapbar_library_00
+    21300084: tapbar_myfeed_11
+    21300086: tapbar_settings_12
+    21300088: tb_btn_bg
+    21300090: tapbar_library_11
+    21300092: tapbar_news_00
+    21300094: tapbar_settings_11
+    21300096: tapbar_daily_10
+    21300098: tapbar_settings_03
+    21300100: tapbar_settings_09
+    21300102: tapbar_news_05
+    21300104: tapbar_daily_09
+    21300106: tapbar_library_04
+    21300108: tapbar_news_08
+    21300110: tb_btn_select
+    21300112: tapbar_library_07
+    21300114: tapbar_settings_04
+    21300116: tapbar_settings_08
+    21300118: tapbar_news_13
+    21300120: tapbar_settings_07
+    21300122: tapbar_settings_01
+    21300124: tapbar_library_02
+    21300126: tapbar_news_01
+    21300128: tapbar_library_09
+    21300130: news_indicator
+    21300132: tapbar_daily_02
+    21300134: tapbar_daily_13
+    21300136: tapbar_daily_11
+    21300138: tapbar_news_07
+    21300140: tapbar_daily_12
+    21300142: tapbar_settings_02
+    21300144: tapbar_daily_07
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tapbar_news_09
+      rect:
+        serializedVersion: 2
+        x: 0.0761205
+        y: 560.0761
+        width: 64.89713
+        height: 77.88097
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_daily_08
+      rect:
+        serializedVersion: 2
+        x: 554.0761
+        y: 79.07612
+        width: 92.84776
+        height: 60.84776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_myfeed_01
+      rect:
+        serializedVersion: 2
+        x: 146.0429
+        y: 0.02675104
+        width: 34.88097
+        height: 57.9465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_myfeed_00
+      rect:
+        serializedVersion: 2
+        x: 376.0268
+        y: 0.02675104
+        width: 64.89713
+        height: 112.9465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_news_06
+      rect:
+        serializedVersion: 2
+        x: 794.0761
+        y: 369.0268
+        width: 60.89713
+        height: 69.9465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_daily_06
+      rect:
+        serializedVersion: 2
+        x: 555.0513
+        y: 207.0761
+        width: 88.89455
+        height: 77.92388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_news_11
+      rect:
+        serializedVersion: 2
+        x: 133.0761
+        y: 478.0268
+        width: 64.89713
+        height: 82.89713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_settings_13
+      rect:
+        serializedVersion: 2
+        x: 443.0268
+        y: 0.0761205
+        width: 108.9255
+        height: 119.9239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_settings_05
+      rect:
+        serializedVersion: 2
+        x: 200.0429
+        y: 503
+        width: 43.91418
+        height: 48.92388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_myfeed_02
+      rect:
+        serializedVersion: 2
+        x: 924.0429
+        y: 73.02675
+        width: 34.88097
+        height: 56.9465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_myfeed_04
+      rect:
+        serializedVersion: 2
+        x: 757.0761
+        y: 383.0268
+        width: 34.84776
+        height: 56.9465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_news_10
+      rect:
+        serializedVersion: 2
+        x: 0.0761205
+        y: 478.0761
+        width: 64.87257
+        height: 79.86287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_myfeed_07
+      rect:
+        serializedVersion: 2
+        x: 130.0761
+        y: 239.0761
+        width: 41.8586
+        height: 80.89713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_library_06
+      rect:
+        serializedVersion: 2
+        x: 847.0429
+        y: 72.07612
+        width: 74.88097
+        height: 61.89713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_library_01
+      rect:
+        serializedVersion: 2
+        x: 731.0761
+        y: 226.0129
+        width: 64.87257
+        height: 52.93071
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_library_13
+      rect:
+        serializedVersion: 2
+        x: 0.02675098
+        y: 334.0761
+        width: 208.9465
+        height: 141.8477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_myfeed_09
+      rect:
+        serializedVersion: 2
+        x: 885.0761
+        y: 300
+        width: 52.86176
+        height: 97.92388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_news_12
+      rect:
+        serializedVersion: 2
+        x: 284.0761
+        y: 445.0761
+        width: 64.89713
+        height: 84.84776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_myfeed_05
+      rect:
+        serializedVersion: 2
+        x: 847.0761
+        y: 276.0761
+        width: 35.86975
+        height: 62.84776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_daily_00
+      rect:
+        serializedVersion: 2
+        x: 0.03596878
+        y: 0.07612038
+        width: 88.93729
+        height: 104.8971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_myfeed_12
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 281
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_daily_05
+      rect:
+        serializedVersion: 2
+        x: 710.0388
+        y: 146.0761
+        width: 77.88513
+        height: 77.87762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_myfeed_03
+      rect:
+        serializedVersion: 2
+        x: 721.0267
+        y: 383.0268
+        width: 33.9465
+        height: 56.89713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_myfeed_06
+      rect:
+        serializedVersion: 2
+        x: 924.0761
+        y: 0.05637175
+        width: 37.84776
+        height: 70.91688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_daily_03
+      rect:
+        serializedVersion: 2
+        x: 651.0598
+        y: 144.0761
+        width: 56.86415
+        height: 70.92302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_settings_00
+      rect:
+        serializedVersion: 2
+        x: 554.0267
+        y: 0
+        width: 69.9465
+        height: 76.97325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_settings_10
+      rect:
+        serializedVersion: 2
+        x: 67.07612
+        y: 624
+        width: 52.84776
+        height: 57.92388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_settings_06
+      rect:
+        serializedVersion: 2
+        x: 122.0761
+        y: 683
+        width: 45.86286
+        height: 50.92388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_library_12
+      rect:
+        serializedVersion: 2
+        x: 451.0268
+        y: 396.0761
+        width: 104.9465
+        height: 72.84776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_library_10
+      rect:
+        serializedVersion: 2
+        x: 799.0429
+        y: 0.07612038
+        width: 95.88097
+        height: 69.8876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_library_05
+      rect:
+        serializedVersion: 2
+        x: 211.006
+        y: 382.0761
+        width: 70.94271
+        height: 61.91096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_myfeed_13
+      rect:
+        serializedVersion: 2
+        x: 211.0761
+        y: 180
+        width: 118.8593
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_myfeed_10
+      rect:
+        serializedVersion: 2
+        x: 661.0761
+        y: 357
+        width: 57.84776
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_daily_01
+      rect:
+        serializedVersion: 2
+        x: 461.0761
+        y: 122.0267
+        width: 48.89422
+        height: 57.9465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_news_04
+      rect:
+        serializedVersion: 2
+        x: 924.0761
+        y: 132.0267
+        width: 61.84776
+        height: 62.93975
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_library_03
+      rect:
+        serializedVersion: 2
+        x: 856.0267
+        y: 136.0761
+        width: 62.89713
+        height: 59.84776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_myfeed_08
+      rect:
+        serializedVersion: 2
+        x: 798.0761
+        y: 276.0761
+        width: 46.84776
+        height: 90.89713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_daily_04
+      rect:
+        serializedVersion: 2
+        x: 461.0761
+        y: 253.0761
+        width: 63.84776
+        height: 75.89713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_news_03
+      rect:
+        serializedVersion: 2
+        x: 857.0477
+        y: 400.0268
+        width: 61.87617
+        height: 58.9465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_library_08
+      rect:
+        serializedVersion: 2
+        x: 646.0267
+        y: 226.0761
+        width: 82.9465
+        height: 65.84776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_news_02
+      rect:
+        serializedVersion: 2
+        x: 558.0761
+        y: 427.0268
+        width: 60.84776
+        height: 54.92193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_library_00
+      rect:
+        serializedVersion: 2
+        x: 0.02675247
+        y: 239.0429
+        width: 127.9465
+        height: 92.90578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_myfeed_11
+      rect:
+        serializedVersion: 2
+        x: 890.0761
+        y: 198
+        width: 59.92388
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_settings_12
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 459
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tb_btn_bg
+      rect:
+        serializedVersion: 2
+        x: 626.0761
+        y: 0
+        width: 170.9239
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_library_11
+      rect:
+        serializedVersion: 2
+        x: 558.0335
+        y: 353.0761
+        width: 100.9398
+        height: 71.87257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_news_00
+      rect:
+        serializedVersion: 2
+        x: 332.0268
+        y: 351.0513
+        width: 116.9644
+        height: 91.87257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_settings_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 532
+        width: 55
+        height: 59.95709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_daily_10
+      rect:
+        serializedVersion: 2
+        x: 461.0268
+        y: 331.0268
+        width: 94.97325
+        height: 62.9465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_settings_03
+      rect:
+        serializedVersion: 2
+        x: 0.02675104
+        y: 640
+        width: 41.89713
+        height: 43.92388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_settings_09
+      rect:
+        serializedVersion: 2
+        x: 122.0761
+        y: 624
+        width: 51.89713
+        height: 56.96371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_news_05
+      rect:
+        serializedVersion: 2
+        x: 67.07612
+        y: 478.0268
+        width: 61.84776
+        height: 66.93034
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_daily_09
+      rect:
+        serializedVersion: 2
+        x: 555.0267
+        y: 144.0761
+        width: 93.90862
+        height: 60.87257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_library_04
+      rect:
+        serializedVersion: 2
+        x: 661.0761
+        y: 294.0761
+        width: 61.89713
+        height: 60.84776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_news_08
+      rect:
+        serializedVersion: 2
+        x: 67.07612
+        y: 547.0513
+        width: 63.88097
+        height: 74.89737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tb_btn_select
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 180
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_library_07
+      rect:
+        serializedVersion: 2
+        x: 558.0363
+        y: 287.0761
+        width: 79.93697
+        height: 63.84776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_settings_04
+      rect:
+        serializedVersion: 2
+        x: 441.0268
+        y: 471
+        width: 43.96033
+        height: 46.96803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_settings_08
+      rect:
+        serializedVersion: 2
+        x: 211.0761
+        y: 446
+        width: 48.89713
+        height: 54.9418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_news_13
+      rect:
+        serializedVersion: 2
+        x: 332.0761
+        y: 180.0761
+        width: 126.8478
+        height: 168.8477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_settings_07
+      rect:
+        serializedVersion: 2
+        x: 391.061
+        y: 445
+        width: 47.89128
+        height: 52.92388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_settings_01
+      rect:
+        serializedVersion: 2
+        x: 351.0268
+        y: 445
+        width: 37.9465
+        height: 39.92388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_library_02
+      rect:
+        serializedVersion: 2
+        x: 790.0267
+        y: 146.0761
+        width: 63.92194
+        height: 56.92388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_news_01
+      rect:
+        serializedVersion: 2
+        x: 952.0267
+        y: 197.0267
+        width: 60.89713
+        height: 50.92193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_library_09
+      rect:
+        serializedVersion: 2
+        x: 798.0513
+        y: 205.0761
+        width: 89.92194
+        height: 68.90707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: news_indicator
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 686
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_daily_02
+      rect:
+        serializedVersion: 2
+        x: 91.00193
+        y: 0.07612038
+        width: 52.92195
+        height: 63.89713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_daily_13
+      rect:
+        serializedVersion: 2
+        x: 0.02675104
+        y: 107.0267
+        width: 191.9465
+        height: 129.9465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_daily_11
+      rect:
+        serializedVersion: 2
+        x: 649.0761
+        y: 77.07612
+        width: 95.84776
+        height: 64.84776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_news_07
+      rect:
+        serializedVersion: 2
+        x: 921.0761
+        y: 400.0268
+        width: 61.88097
+        height: 71.91912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_daily_12
+      rect:
+        serializedVersion: 2
+        x: 747.0761
+        y: 77.07612
+        width: 97.84776
+        height: 66.92388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_settings_02
+      rect:
+        serializedVersion: 2
+        x: 284.0761
+        y: 382
+        width: 39.84776
+        height: 41.95709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tapbar_daily_07
+      rect:
+        serializedVersion: 2
+        x: 461.0513
+        y: 182.0761
+        width: 91.90774
+        height: 68.89713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

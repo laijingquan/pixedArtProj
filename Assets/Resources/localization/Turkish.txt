@@ -1,0 +1,95 @@
+Id,Turkish
+tabbar_usersWorks,Akışım
+appname,Sayılarla Boya
+appname_ios,Sayılarla Boya
+tabbar_content,Kütüphane
+tabbar_menu,Menü
+contextMenu_continue,Devam
+contextMenu_restart,Tekrar başlat
+contextMenu_delete,Sil
+menu_title,Menü
+menu_removeAds,Reklamları Kaldır
+menu_rateIt,Değerlendirme yaz
+menu_contactUs,İletişim
+contactUs_to,@tgfr.com
+contactUs_subject,"%AppName%, %Platform%"
+contactUs_body,\n\n\nLütfen bu metni silme:\nAppName: %AppName%\nPlatfom: %Platfom%\nAppVersion: %AppVersion%\n
+rateIt_title,Puan ver
+rateIt_body,Bu uygulamaya puan vermek ister misin?
+rateIt_confirm,Puan ver
+rateIt_cancel,Daha sonra
+rasult_download,Kaydet
+rasult_other,Diğer...
+result_picSaved,Kaydedildi
+localNotification_yy_title,Tamamlanmamış resmin var
+localNotification_yy_body,Hey! Boyama resimleri seni bekliyor!
+localNotification_02_title,Haydi dinlenelim! ☺️
+localNotification_02_body,Boyayabileceğin bir dolu resmimiz var 🎨
+localNotification_03_title,Boyadığın resmi tamamla 😜
+localNotification_03_body,✨ Boyamak için güzel bir resmin var 🌺
+localNotification_04_title,Sayfaları boyamanın zamanı! 🌁 🚀 🌁
+localNotification_04_body,"🤗 Beynini dinlendir, güzel resimler boya! 🤗"
+game_wrongPaint,Yanlış hücre 
+game_wrongPalette,"""1"" rengi içeren hücre yok"
+Caption 3,Yetişkinler ve Çocuklar için
+menu_solitaire,Solitaire Oyna
+menu_sudoku,Sudoku Oyna
+label_daily,Günlük Renklendirme
+label_new,Yeni
+panel_noInet,İnternet Bağlantısı Yok
+popup_noInet_title,İnternet Bağlantısı Yok
+popup_noInet_body,Lütfen internet bağlantısı ayarlarını kontrol et
+popup_noInet_cancel,İptal et
+popup_noInet_again,Tekrar Dene
+popup_sync_body,Sunucu ile eşitleme devam ediyor. Daha sonra tekrar dene.
+popup_sync_ok,Tamam
+push_daily_title,Yeni Görüntüyü Renklendir!
+push_daily_body,Her gün yeni görüntülerin keyfini çıkar
+push_newContent_title_01,Harika Haberlerimiz Var!
+push_newContent_body_01,Yeni görüntüler mevcut. Şimdi Renklendir!
+menu_restorePurchases,Alımları yenile
+loading,Yükleniyor
+tabbar_daily,Günlük
+hints_toast_selectColor,Paletten biir renk seç
+hints_toast_alreadyColored,Zaten renklendirilmiş
+filter_search,Filtre
+filter_showAllCategories,Tümü
+filter_hideColored,Renklendirilmişleri gizle
+daily_bonus,Günlük İkramiye
+adRewarded_tltle,Daha fazla ipucu
+adRewarded_bodyHint,İpucu almak için bir reklam izle
+adRewarded_bodyMagic,İpuçları almak için bir reklam izle
+adRewarded_Cancel,İptal et
+adRewarded_Watch,İzle
+localNotification_01_title,Mamma mia
+localNotification_01_body,🔥 Nasıl bir görüntü seni bekliyor ama! 🔥
+loading_skip,Atla
+loading_error,Yükleme hatası
+category_bonus_emptyText,Facebook topluluğumuza katıl ve özel görüntüler bul
+category_bonus_emptyButton,Daha fazla bul
+filter_bonus_findMore,Daha fazla bul
+bonus_popup_title,İkramiye Resimler
+bonus_popup_cta,Talep et
+broken_link_title,Olamaz!
+broken_link_body,O geçersiz bir bağlantıydı. Yaklaşan etkinliklerle ilgili Facebook sayfamızda bilgiler bul.
+hints_toast_hints0,Kullanılabilir Reklam Yok. Daha sonra tekrar deneyin.
+filter_bonusPictures,İkramiye
+tabbar_news,Haberler
+contextMenu_share,Paylaş
+featuredText_open,Aç
+permission_photo,Resimler fotoğraf galerisine kaydedilecektir.
+terms,Kullanım Şartları
+tabbar_settings,Ayarlar
+privacy,Gizlilik Politikası
+reclaim_popup_title,Hayır, olamaz!
+reclaim_popup_body,Bu ikramiyeyi zaten talep ettin
+bad_connect_label,Yavaş bağlantı
+solved_page_share,Paylaş 
+solved_page_anim,Canlandır
+solved_page_save,Kaydet
+design_upd_line_1,Yeni
+design_upd_line_2,tasarımımıza
+design_upd_line_3,göz at!
+design_upd_body,Eski tasarıma Ayarlar'dan geçiş yapabilirsin
+switch_new_design,Yeni tasarıma geçiş yap
+switch_legacy_design,Eski tasarıma geçiş yap

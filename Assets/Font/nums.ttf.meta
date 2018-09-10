@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d1a01c37e9f7401fb3577cbc046e5dcb
+timeCreated: 1536527004
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 45
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'nums'
+  fontNames:
+  - Roboto
+  fallbackFontReferences:
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

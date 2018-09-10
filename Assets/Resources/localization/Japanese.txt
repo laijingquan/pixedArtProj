@@ -1,0 +1,95 @@
+Id,Japanese
+tabbar_usersWorks,マイフィード
+appname,数字で色塗り
+appname_ios,数字で色塗り
+tabbar_content,ライブラリ
+tabbar_menu,メニュー
+contextMenu_continue,続ける
+contextMenu_restart,再開する
+contextMenu_delete,削除する
+menu_title,メニュー
+menu_removeAds,広告を削除する
+menu_rateIt,レビューを書く
+menu_contactUs,お問い合わせ
+contactUs_to,@tgfr.com
+contactUs_subject,%AppName%、 %Platform%
+contactUs_body,\n\n\nこの文字を削除しないでください：\nアプリ名： %AppName%\nプラットフォーム： %Platfom%\nアプリバージョン： %AppVersion%\n
+rateIt_title,評価する
+rateIt_body,このアプリを評価したいですか？
+rateIt_confirm,評価する
+rateIt_cancel,後で
+rasult_download,保存する
+rasult_other,その他...
+result_picSaved,保存しました
+localNotification_yy_title,完了していない絵があります
+localNotification_yy_body,ねえ！ぬり絵があなたを待っているよ！
+localNotification_02_title,リラックスしよう！☺️
+localNotification_02_body,あなた用にぬり絵するたくさんの絵があるよ 🎨
+localNotification_03_title,ぬり絵を完成する 😜
+localNotification_03_body,✨ 色付けする美しい絵画があります 🌺
+localNotification_04_title,ぬり絵する時間です！🌁 🚀 🌁
+localNotification_04_body,🤗 脳を休ませて、すてきな絵に色を付けよう！🤗
+game_wrongPaint,間違ったセル
+game_wrongPalette,色「１」のセルはありません
+Caption 3,大人と子供用
+menu_solitaire,ソリティアをプレイする
+menu_sudoku,数独をプレイする
+label_daily,今日の塗り絵
+label_new,新規
+panel_noInet,インターネット接続がありません
+popup_noInet_title,インターネット接続がありません
+popup_noInet_body,インターネット接続の設定を確認してください
+popup_noInet_cancel,キャンセル
+popup_noInet_again,再試行
+popup_sync_body,このサーバーとの同期が進行中です。後ほどお試しください。
+popup_sync_ok,OK
+push_daily_title,新しい画像に色を付けましょう！
+push_daily_body,新しい画像を毎日お楽しみください
+push_newContent_title_01,すごいニュース！
+push_newContent_body_01,新しい画像を利用できます。今すぐ色を塗りましょう！
+menu_restorePurchases,購入履歴を復元する
+loading,読み込み中
+tabbar_daily,デイリー
+hints_toast_selectColor,パレットから色を選んでください
+hints_toast_alreadyColored,既に色塗りされています
+filter_search,フィルタ
+filter_showAllCategories,すべて
+filter_hideColored,色塗りしたものを非表示にする
+daily_bonus,デイリーボーナス
+adRewarded_tltle,さらにヒントを得る
+adRewarded_bodyHint,広告を見てヒントを得る
+adRewarded_bodyMagic,広告を見てヒントを得る
+adRewarded_Cancel,キャンセル
+adRewarded_Watch,見る
+localNotification_01_title,ママ・ミア😲
+localNotification_01_body,🔥すごいイメージが待っています！🔥
+loading_skip,スキップ
+loading_error,読み込みエラー
+category_bonus_emptyText,Facebookコミュニティに参加して、限定画像を見つけよう
+category_bonus_emptyButton,さらに詳しく
+filter_bonus_findMore,さらに詳しく
+bonus_popup_title,ボーナス写真
+bonus_popup_cta,受け取る
+broken_link_title,おっと !
+broken_link_body,無効なリンクでした。Facebookページで最新イベント情報を入手しよう。
+hints_toast_hints0,広告はありません。あとでもう一度試してみてください。
+filter_bonusPictures,ボーナス
+tabbar_news,ニュース
+contextMenu_share,共有
+featuredText_open,開く
+permission_photo,写真は写真ギャラリーに保存されます。
+terms,利用規約
+tabbar_settings,設定
+privacy,写真は写真ギャラリーに保存されます。
+reclaim_popup_title,おっと ! 
+reclaim_popup_body,すでにこのボーナスは受け取っています！
+bad_connect_label,遅い接続
+solved_page_share,共有
+solved_page_anim,アニメ化
+solved_page_save,保存
+design_upd_line_1,新し
+design_upd_line_2,いデザイン
+design_upd_line_3,が登場！
+design_upd_body,設定で古いデザインに切り替えることができます
+switch_new_design,新しいデザインに切り替える
+switch_legacy_design,古いデザインに切り替える

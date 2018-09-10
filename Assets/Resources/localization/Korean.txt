@@ -1,0 +1,95 @@
+Id,Korean
+tabbar_usersWorks,내 피드
+appname,숫자별로 색칠하기
+appname_ios,숫자별로 색칠게임
+tabbar_content,라이브러리
+tabbar_menu,메뉴
+contextMenu_continue,계속
+contextMenu_restart,다시 시작하기
+contextMenu_delete,삭제
+menu_title,메뉴
+menu_removeAds,광고 제거
+menu_rateIt,평가 쓰기
+menu_contactUs,제작자 연락처
+contactUs_to,@tgfr.com
+contactUs_subject,"%AppName%, %Platform%"
+contactUs_body,\n\n\n이 텍스트를 삭제하지 마세요:\n앱 이름: %AppName%\n플랫폼: %Platfom%\n앱 버전: %AppVersion%\n
+rateIt_title,평가하기
+rateIt_body,이 앱을 평가해주시겠습니까?
+rateIt_confirm,평가하기
+rateIt_cancel,나중에
+rasult_download,저장
+rasult_other,기타...
+result_picSaved,저장됨
+localNotification_yy_title,완료하지 않은 그림이 있습니다
+localNotification_yy_body,안녕하세요! 여기 그림 색칠하기가 있어요!
+localNotification_02_title,좀 쉬셔야 해요! ☺️
+localNotification_02_body,색칠할 그림이 엄청 많답니다 🎨
+localNotification_03_title,그림 색칠하기를 완성하세요 😜
+localNotification_03_body,✨ 아름다운 그림에 색칠해보세요 🌺
+localNotification_04_title,페이지를 색칠할 시간입니다! 🌁 🚀 🌁
+localNotification_04_body,🤗 머리를 비우고 멋진 그림에 색칠해보세요! 🤗
+game_wrongPaint,틀린 셀
+game_wrongPalette,"색상 ""1""로 된 셀 없음"
+Caption 3,성인 및 아동용
+menu_solitaire,솔리태르 플레이하기
+menu_sudoku,스도쿠 플레이하기
+label_daily,오늘의 색칠하기
+label_new,신규
+panel_noInet,인터넷 연결 안됨
+popup_noInet_title,인터넷 연결 안됨
+popup_noInet_body,인터넷 연결 설정을 확인하세요
+popup_noInet_cancel,취소
+popup_noInet_again,다시 시도하기
+popup_sync_body,서버와 동기화 중입니다. 나중에 다시 시도하세요.
+popup_sync_ok,확인
+push_daily_title,새 이미지를 색칠해보세요!
+push_daily_body,매일 새 이미지를 색칠할 수 있어요
+push_newContent_title_01,기쁜 소식!
+push_newContent_body_01,새 이미지가 업데이트 되었어요. 지금 색칠해보세요!
+menu_restorePurchases,구매 복원
+loading,로딩 중
+tabbar_daily,일일
+hints_toast_selectColor,팔레트에서 컬러를고르세요
+hints_toast_alreadyColored,이미채색됨
+filter_search,필터
+filter_showAllCategories,모두
+filter_hideColored,채색된 부분 숨기기
+daily_bonus,오늘의 보너스
+adRewarded_tltle,힌트더보기
+adRewarded_bodyHint,힌트는 얻으려면 광고를보세요
+adRewarded_bodyMagic,힌트를 얻으려면 광고를보세요
+adRewarded_Cancel,취소
+adRewarded_Watch,보기
+localNotification_01_title,맘마미아😲
+localNotification_01_body,🔥회원님이딱 좋아할이미지가있어요! 🔥
+loading_skip,건너뛰기
+loading_error,로딩 오류
+category_bonus_emptyText,당사 Facebook 커뮤니티에 가입하고 회원 전용 이미지를 찾아보세요
+category_bonus_emptyButton,더보기
+filter_bonus_findMore,더보기
+bonus_popup_title,보너스 사진
+bonus_popup_cta,받기
+broken_link_title,이런!
+broken_link_body,유효하지 않은 링크입니다. 당사 Facebook 페이지에서 이벤트에 대한 정보를 찾아보세요
+hints_toast_hints0,광고가 없습니다. 나중에 다시 시도하십시오.
+filter_bonusPictures,보너스
+tabbar_news,뉴스
+contextMenu_share,공유
+featuredText_open,열기
+permission_photo,포토 갤러리에 사진이 저장됩니다.
+terms,사용 약관
+tabbar_settings,설정
+privacy,개인 정보 정책
+reclaim_popup_title,오우! 
+reclaim_popup_body,이미 이 보너스를 청구하셨습니다
+bad_connect_label,인터넷이 느립니다
+solved_page_share,공유
+solved_page_anim,애니메이션 효과
+solved_page_save,저장
+design_upd_line_1,새 
+design_upd_line_2,디자인을 
+design_upd_line_3,확인해보세요!
+design_upd_body,설정에서 기존 디자인으로 전환할 수 있습니다
+switch_new_design,새 디자인으로 전환
+switch_legacy_design,기존 디자인으로 전환

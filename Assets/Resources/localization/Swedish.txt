@@ -1,0 +1,95 @@
+Id,Swedish
+tabbar_usersWorks,Mitt flöde
+appname,Färglägg med siffror
+appname_ios,Måla efter nummer 
+tabbar_content,Bibliotek
+tabbar_menu,Meny
+contextMenu_continue,Fortsätt
+contextMenu_restart,Starta om
+contextMenu_delete,Radera
+menu_title,Meny
+menu_removeAds,Slipp annonser
+menu_rateIt,Skriv recension
+menu_contactUs,Kontakta oss
+contactUs_to,@tgfr.com
+contactUs_subject,"%AppName%, %Platform%"
+contactUs_body,\n\n\nTa bort den här texten: \nAppnamn: %AppName%\nPlattform: %Platfom%\nAppversion: %AppVersion%\n
+rateIt_title,Betygsätt det
+rateIt_body,Vill du betygsätta denna app?
+rateIt_confirm,Betygsätt
+rateIt_cancel,Senare
+rasult_download,Spara
+rasult_other,Annat…
+result_picSaved,Sparad
+localNotification_yy_title,Du har en oavslutad bild
+localNotification_yy_body,Hallå! Färgbilder väntar på dig!
+localNotification_02_title,Låt oss koppla av! ☺️
+localNotification_02_body,Vi har många bilder för dig att färglägga 🎨
+localNotification_03_title,Gör klart din färgbild 😜
+localNotification_03_body,✨ Du har en vacker bild att färglägga 🌺
+localNotification_04_title,Det är dags att färglägga sidor! 🌁 🚀 🌁
+localNotification_04_body,"🤗 Låt hjärnan koppla av, färglägg trevliga bilder! 🤗"
+game_wrongPaint,Fel cell
+game_wrongPalette,"Inga celler med färg ""1"""
+Caption 3,För vuxna och barn
+menu_solitaire,Spela solitär
+menu_sudoku,Spela sudoku
+label_daily,Dagens färgläggning
+label_new,Ny
+panel_noInet,Ingen internetanslutning
+popup_noInet_title,Ingen internetanslutning
+popup_noInet_body,Kontrollera inställningarna för din internetanslutning
+popup_noInet_cancel,Avbryt
+popup_noInet_again,Försök igen
+popup_sync_body,Synkronisering med servern pågår. Försök igen om en stund.
+popup_sync_ok,Ok
+push_daily_title,Färglägg en ny bild!
+push_daily_body,Hitta nya bilder varje dag
+push_newContent_title_01,Goda nyheter!
+push_newContent_body_01,Nya bilder finns tillgängliga. Färglägg nu!
+menu_restorePurchases,Återställa köp
+loading,Laddar
+tabbar_daily,Dagligen
+hints_toast_selectColor,Välj en färg i paletten
+hints_toast_alreadyColored,Redan färglagd
+filter_search,Filter
+filter_showAllCategories,Alla
+filter_hideColored,Dölj färglagda
+daily_bonus,Daglig bonus
+adRewarded_tltle,Fler tips
+adRewarded_bodyHint,Titta på en annons för att få ett tips
+adRewarded_bodyMagic,Titta på en annons för att få tips
+adRewarded_Cancel,Avbryt
+adRewarded_Watch,Titta
+localNotification_01_title,Mamma mia 😲
+localNotification_01_body,🔥 Vilken bild som vänra på dig! 🔥
+loading_skip,Hoppa över
+loading_error,Fel vid laddning
+category_bonus_emptyText,Gå med i vår Facebook-grupp och få tillgång till särskilda bilder
+category_bonus_emptyButton,Hitta mer
+filter_bonus_findMore,Hitta mer
+bonus_popup_title,Bonusbilder
+bonus_popup_cta,Hämta
+broken_link_title,Hoppsan!
+broken_link_body,Länken är ogiltig. Få information om kommande aktiviteter på vår Facebook-sida.
+hints_toast_hints0,Ingen annons tillgänglig. Försök igen senare.
+filter_bonusPictures,Bonus
+tabbar_news,Nyheter
+contextMenu_share,Dela
+featuredText_open,Öppna
+permission_photo,Bilder kommer att sparas i fotogalleriet.
+terms,Användarvillkor
+tabbar_settings,Inställningar
+privacy,Integritetspolicy
+reclaim_popup_title,Hoppsan! 
+reclaim_popup_body,Du har redan hämtat den här bonusen
+bad_connect_label,Långsam anslutning
+solved_page_share,Dela 
+solved_page_anim,Animera
+solved_page_save,Spara
+design_upd_line_1,Kolla 
+design_upd_line_2,in vår nya 
+design_upd_line_3,design!
+design_upd_body,Du kan byta till den gamla designen i inställningarna
+switch_new_design,Byt till den nya designen
+switch_legacy_design,Byt till den gamla designen

@@ -1,0 +1,95 @@
+Id,ChineseSimplified	
+tabbar_usersWorks,我的
+appname,按数字填色
+appname_ios,按数字颜色
+tabbar_content,图库
+tabbar_menu,菜单
+contextMenu_continue,继续
+contextMenu_restart,重启
+contextMenu_delete,删除
+menu_title,菜单
+menu_removeAds,移除广告
+menu_rateIt,写评论
+menu_contactUs,联系我们
+contactUs_to,@tgfr.com
+contactUs_subject,%Platform%版%AppName%
+contactUs_body,\n\n\n请勿删除该文字：\n应用名称：%AppName%\n运行平台：%Platfom%\n应用版本：%AppVersion%\n
+rateIt_title,评分
+rateIt_body,为我们评个分吧？
+rateIt_confirm,评分
+rateIt_cancel,稍后
+rasult_download,保存
+rasult_other,其他…
+result_picSaved,已保存
+localNotification_yy_title,您有图画未填完
+localNotification_yy_body,哈罗！填色图在等你哟！
+localNotification_02_title,好好放松一下吧！☺️
+localNotification_02_body,大量图片供您填色 🎨
+localNotification_03_title,完成您的图画填色 😜
+localNotification_03_body,✨ 一幅美丽的图画在等您填色 🌺
+localNotification_04_title,快来为画页填上色彩！🌁 🚀 🌁
+localNotification_04_body,🤗 放松大脑，填画美图！🤗
+game_wrongPaint,格子有误
+game_wrongPalette,没有格子用颜色”1“
+Caption 3,大人儿童皆宜
+menu_solitaire,来玩纸牌游戏
+menu_sudoku,来玩数独游戏
+label_daily,每日一涂
+label_new,新增
+panel_noInet,没有网络连接
+popup_noInet_title,没有网络连接
+popup_noInet_body,请检查您的互联网接入设置
+popup_noInet_cancel,取消
+popup_noInet_again,重试
+popup_sync_body,正在与服务器同步中。请稍后重试。
+popup_sync_ok,确认
+push_daily_title,为新图上色！
+push_daily_body,天天有新图
+push_newContent_title_01,好消息！
+push_newContent_body_01,有新图发布。这就去上色！
+menu_restorePurchases,还原购买内容
+loading,加载中
+tabbar_daily,每日
+hints_toast_selectColor,从调色板中选取颜色
+hints_toast_alreadyColored,已着色
+filter_search,筛选器
+filter_showAllCategories,全部
+filter_hideColored,隐藏已着色
+daily_bonus,每日奖励
+adRewarded_tltle,更多提示
+adRewarded_bodyHint,观看广告，获取提示
+adRewarded_bodyMagic,观看广告，获取提示
+adRewarded_Cancel,取消
+adRewarded_Watch,观看
+localNotification_01_title,妈妈咪呀😲
+localNotification_01_body,🔥有张美图在等你！🔥
+loading_skip,跳过
+loading_error,加载错误
+category_bonus_emptyText,加入我们的Facebook社区，获得独享图片
+category_bonus_emptyButton,找到更多
+filter_bonus_findMore,找到更多
+bonus_popup_title,奖励图片
+bonus_popup_cta,认领
+broken_link_title,啊哦！
+broken_link_body,这是一个无效链接。在我们的Facebook主页上获得今后活动的相关信息
+hints_toast_hints0,没有广告可用。稍后再试。
+filter_bonusPictures,奖励
+tabbar_news,动态
+contextMenu_share,分享
+featuredText_open,打开
+permission_photo,图片将被保存至图库内。
+terms,使用条款
+tabbar_settings,设置
+privacy,隐私政策
+reclaim_popup_title,啊哦！
+reclaim_popup_body,你已经领取过这个奖励啦
+bad_connect_label,网速过慢
+solved_page_share,分享
+solved_page_anim,动画
+solved_page_save,保存
+design_upd_line_1,查看
+design_upd_line_2,我们的新
+design_upd_line_3,设计！
+design_upd_body,您可在设置中切换至旧设计
+switch_new_design,切换至新设计
+switch_legacy_design,切换至旧设计

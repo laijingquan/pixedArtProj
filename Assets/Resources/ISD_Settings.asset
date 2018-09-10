@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 026e60c14a40ef3adefb1fb6ce31a96e, type: 3}
+  m_Name: 'ISD_Settings'
+  m_EditorClassIdentifier: 
+  IsfwSettingOpen: 0
+  IsLibSettingOpen: 0
+  IslinkerSettingOpne: 0
+  IscompilerSettingsOpen: 0
+  IsPlistSettingsOpen: 0
+  IsLanguageSettingOpen: 1
+  IsDefFrameworksOpen: 0
+  IsDefLibrariesOpen: 0
+  IsBuildSettingsOpen: 0
+  ToolbarIndex: 0
+  enableBitCode: 0
+  enableTestability: 0
+  generateProfilingCode: 0
+  Frameworks: []
+  Libraries: []
+  Flags: []
+  PlistVariables:
+  - IsOpen: 1
+    IsListOpen: 1
+    Name: 'AppLovinSdkKey'
+    Type: 0
+    StringValue: 'mqMgCvxUEFMEJdNL9HOwiQ7aLy61uR8dFVJSPExeUItoxF84WW_Dy7pH4vJyKRaayu1L7z_cFsPA5XFc2Fq-Nd'
+    IntegerValue: 0
+    FloatValue: 0
+    BooleanValue: 1
+    ChildrensIds: []
+  - IsOpen: 1
+    IsListOpen: 1
+    Name: 'NSCalendarsUsageDescription'
+    Type: 0
+    StringValue: 'For calendar events creation'
+    IntegerValue: 0
+    FloatValue: 0
+    BooleanValue: 1
+    ChildrensIds: []
+  - IsOpen: 1
+    IsListOpen: 1
+    Name: 'ITSAppUsesNonExemptEncryption'
+    Type: 3
+    StringValue: 
+    IntegerValue: 0
+    FloatValue: 0
+    BooleanValue: 0
+    ChildrensIds: []
+  - IsOpen: 1
+    IsListOpen: 1
+    Name: 'FacebookDisplayName'
+    Type: 0
+    StringValue: 'Paint by Numbers'
+    IntegerValue: 0
+    FloatValue: 0
+    BooleanValue: 1
+    ChildrensIds: []
+  VariableDictionary: []
+  langFolders: []
+  Files: []

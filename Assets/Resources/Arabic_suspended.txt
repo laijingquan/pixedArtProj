@@ -1,0 +1,33 @@
+Id,Arabic
+tabbar_usersWorks,تعليقي
+appname,جديد مجاناً 
+tabbar_content,المكتبة
+tabbar_menu,القائمة
+contextMenu_continue,مواصلة
+contextMenu_restart,إعادة التشغيل
+contextMenu_delete,حذف
+menu_title,القائمة
+menu_removeAds,إزالة الإعلانات
+menu_rateIt,كتابة مراجعة
+menu_contactUs,اتصل بنا
+contactUs_to,@tgfr.com
+contactUs_subject,"%AppName%, %Platform%"
+contactUs_body,"\n\n\nفضلاً لا تحذف هذا النص:\nاسم التطبيق: %AppName%\nالمنصة: %Platfom%\nإصدار التطبيق: %AppVersion%\n"
+rateIt_title,ضع تقييماً
+rateIt_body,هل تود تقييم هذا التطبيق؟
+rateIt_confirm,تقييم
+rateIt_cancel,لاحقاً
+rasult_download,حفظ
+rasult_other,أخرى...
+result_picSaved,تم الحفظ
+localNotification_01_title,لديك صورة لم تكتمل
+localNotification_01_body,مهلاً! صور التلوين في انتظارك!
+localNotification_02_title,دعنا نسترخ!
+localNotification_02_body,لدينا الكثير من الصور لتلونها
+localNotification_03_title,أكمل تلوين الصورة
+localNotification_03_body,لديك صورة جميلة لتلونها
+localNotification_04_title,حان وقت صفحات التلوين!
+localNotification_04_body,اجعل دماغك يسترخ، ولوّن صوراً جميلة!
+game_wrongPaint,خلية خاطئة
+game_wrongPalette,"لا خلايا باللون ""1"""
+Caption 3,للبالغين والصغار

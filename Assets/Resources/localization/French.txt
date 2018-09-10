@@ -1,0 +1,95 @@
+Id,French
+tabbar_usersWorks,Mon flux
+appname,Peinture par numéros
+appname_ios,Coloriage par numéro
+tabbar_content,Bibliothèque
+tabbar_menu,Menu
+contextMenu_continue,Continuer
+contextMenu_restart,Recommencer
+contextMenu_delete,Supprimer
+menu_title,Menu
+menu_removeAds,Supprimer les pubs
+menu_rateIt,Écrire un avis
+menu_contactUs,Contactez-nous
+contactUs_to,@tgfr.com
+contactUs_subject,"%AppName%, %Platform%"
+contactUs_body,\n\n\nVeuillez ne pas supprimer ce texte :\nNom de l'application : %AppName%\nPlatefome : %Platfom%\nVersion de l'application : %AppVersion%\n
+rateIt_title,Évaluez-la
+rateIt_body,Voulez-vous évaluer cette application ?
+rateIt_confirm,Évaluer
+rateIt_cancel,Plus tard
+rasult_download,Enregistrer
+rasult_other,Autre...
+result_picSaved,Enregistrée
+localNotification_yy_title,Vous avez une image non terminée
+localNotification_yy_body,Coucou ! Des images à colorier vous attendent !
+localNotification_02_title,Place à la détente ! ☺️
+localNotification_02_body,Nous avons plein d'images que vous pouvez colorier. 🎨
+localNotification_03_title,Terminez votre image à colorier 😜
+localNotification_03_body,✨ Vous avez une magnifique image à colorier 🌺
+localNotification_04_title,C'est l'heure de colorier des pages ! 🌁 🚀 🌁
+localNotification_04_body,"🤗 Détendez votre esprit, coloriez des jolies images ! 🤗"
+game_wrongPaint,Mauvaise cellule
+game_wrongPalette,Aucune cellule avec la couleur « 1 »
+Caption 3,Pour adultes et enfants
+menu_solitaire,Jouer au Solitaire
+menu_sudoku,Jouer au Sudoku
+label_daily,Coloriage quotidien
+label_new,Nouveau
+panel_noInet,Pas de connexion Internet
+popup_noInet_title,Pas de connexion Internet
+popup_noInet_body,Veuillez vérifier vos paramètres de connexion Internet
+popup_noInet_cancel,Annuler
+popup_noInet_again,Réessayer
+popup_sync_body,La synchronisation avec le serveur est en cours. Réessayez plus tard.
+popup_sync_ok,OK
+push_daily_title,Coloriez une nouvelle image !
+push_daily_body,Profitez chaque jour de nouvelles images
+push_newContent_title_01,Super nouvelle !
+push_newContent_body_01,Des nouvelles images sont disponibles. Coloriez maintenant !
+menu_restorePurchases,Restaurer les achats
+loading,Chargement
+tabbar_daily,Quotidien
+hints_toast_selectColor,Choisissez une couleur sur la palette
+hints_toast_alreadyColored,Déjà colorié
+filter_search,Filtre
+filter_showAllCategories,Toutes
+filter_hideColored,Masquer les coloriés
+daily_bonus,Bonus quotidien
+adRewarded_tltle,Plus d'astuces
+adRewarded_bodyHint,Regardez une pub pour obtenir un indice
+adRewarded_bodyMagic,Regardez une pub pour obtenir des indices
+adRewarded_Cancel,Annuler
+adRewarded_Watch,Regarder
+localNotification_01_title,Mamma mia 😲
+localNotification_01_body,🔥 Une super image vous attend ! 🔥
+loading_skip,Passer
+loading_error,Erreur de chargement
+category_bonus_emptyText,Rejoignez notre communauté Facebook et retrouvez des images exclusives
+category_bonus_emptyButton,Trouver plus
+filter_bonus_findMore,Trouver plus
+bonus_popup_title,Images bonus
+bonus_popup_cta,Récupérer
+broken_link_title,Oh oh !
+broken_link_body,Ce lien était invalide. Retrouvez des infos à propos des prochains événements sur notre page Facebook
+hints_toast_hints0,Pas d'annonce disponible. Réessayez plus tard.
+filter_bonusPictures,Bonus
+tabbar_news,Actualités
+contextMenu_share,Partager
+featuredText_open,Ouvrir
+permission_photo,Les images seront enregistrées dans la galerie photo.
+terms,Conditions d'utilisation
+tabbar_settings,Réglages
+privacy,Politique de confidentialité
+reclaim_popup_title,Oups !
+reclaim_popup_body,Vous avez déjà récupéré ce bonus
+bad_connect_label,Connexion lente
+solved_page_share,Partager
+solved_page_anim,Animer
+solved_page_save,Enregistrer
+design_upd_line_1,Allez
+design_upd_line_2,découvrir notre
+design_upd_line_3,nouveau design !
+design_upd_body,Vous pouvez repasser à l'ancien design dans les réglages
+switch_new_design,Passer au nouveau design
+switch_legacy_design,Passer à l'ancien design

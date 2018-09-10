@@ -1,0 +1,95 @@
+Id,ChineseTraditional
+tabbar_usersWorks,我的消息頁
+appname,數字著色
+appname_ios,按数字填色
+tabbar_content,圖庫
+tabbar_menu,選單
+contextMenu_continue,繼續
+contextMenu_restart,重新開始
+contextMenu_delete,刪除
+menu_title,選單
+menu_removeAds,移除廣告
+menu_rateIt,寫下評論
+menu_contactUs,與我們聯絡
+contactUs_to,@tgfr.com
+contactUs_subject,"%AppName%, %Platform%"
+contactUs_body,\n\n\nPlease don't delete this text:\n應用程式名稱：%AppName%\n平台：%Platfom%\n應用程式版本： %AppVersion%\n
+rateIt_title,評分
+rateIt_body,您想要為這個應用程式評分嗎？
+rateIt_confirm,評分
+rateIt_cancel,稍後再說
+rasult_download,儲存
+rasult_other,其他……
+result_picSaved,已儲存
+localNotification_yy_title,您有未完成的圖片
+localNotification_yy_body,嘿！有很多圖片正等著您來上色喔！
+localNotification_02_title,一起放鬆吧！☺️
+localNotification_02_body,我們有很多圖片等著您來上色 🎨
+localNotification_03_title,完成著色圖片 😜
+localNotification_03_body,✨ 有張美麗的圖片等著您來上色 🌺
+localNotification_04_title,玩著色畫的時間到了！🌁 🚀 🌁
+localNotification_04_body,🤗 放空大腦，來玩著色畫吧！🤗
+game_wrongPaint,格子錯誤
+game_wrongPalette,沒有顏色「1」的格子
+Caption 3,老少咸宜
+menu_solitaire,玩接龍
+menu_sudoku,玩數獨
+label_daily,每日著色
+label_new,新增
+panel_noInet,無網路連線
+popup_noInet_title,無網路連線
+popup_noInet_body,請確認您的網路連線設定
+popup_noInet_cancel,取消
+popup_noInet_again,重試
+popup_sync_body,正在與伺服器同步中，請稍後再試。
+popup_sync_ok,好
+push_daily_title,為新圖片著色！
+push_daily_body,每天享用新圖片
+push_newContent_title_01,好消息！
+push_newContent_body_01,有新圖片可著色了。快來看看吧！
+menu_restorePurchases,恢復購買
+loading,載入中
+tabbar_daily,每日
+hints_toast_selectColor,從調色盤選取一個顏色
+hints_toast_alreadyColored,已上色
+filter_search,篩選
+filter_showAllCategories,所有分類
+filter_hideColored,隱藏已上色圖片
+daily_bonus,每日獎勵
+adRewarded_tltle,更多提示
+adRewarded_bodyHint,觀看廣告獲得提示
+adRewarded_bodyMagic,觀看廣告獲得提示
+adRewarded_Cancel,取消
+adRewarded_Watch,觀看
+localNotification_01_title,我的媽呀😲
+localNotification_01_body,🔥有精彩的圖片等著你！🔥
+loading_skip,跳過
+loading_error,載入時發生錯誤
+category_bonus_emptyText,加入我們的 Facebook 社群，就能發現獨家圖片！
+category_bonus_emptyButton,發現更多
+filter_bonus_findMore,發現更多
+bonus_popup_title,額外圖片
+bonus_popup_cta,領取
+broken_link_title,哎呀，連結無效！
+broken_link_body,您可在我們的 Facebook 專頁上查看即將推出的新活動資訊
+hints_toast_hints0,沒有廣告可用。稍後再試。
+filter_bonusPictures,特別圖片
+tabbar_news,最新消息
+contextMenu_share,分享
+featuredText_open,開啟
+permission_photo,圖片將會被儲存至相片集。
+terms,使用條款
+tabbar_settings,設定
+privacy,隐私政策
+reclaim_popup_title,哎呀！
+reclaim_popup_body,你已經領取過這個獎勵了
+bad_connect_label,連線緩慢
+solved_page_share,分享 
+solved_page_anim,動畫
+solved_page_save,儲存
+design_upd_line_1,快來瞧
+design_upd_line_2,瞧我們的全新
+design_upd_line_3,遊戲設計！
+design_upd_body,您也可在設定中回復原本的遊戲設計模式
+switch_new_design,切換成新設計模式
+switch_legacy_design,切換成舊設計模式

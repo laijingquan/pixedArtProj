@@ -1,0 +1,95 @@
+Id,Italian
+tabbar_usersWorks,I mio feed
+appname,Colora per numero
+appname_ios,Colorare con numeri
+tabbar_content,Catalogo
+tabbar_menu,Menu
+contextMenu_continue,Continua
+contextMenu_restart,Riavvia
+contextMenu_delete,Cancella
+menu_title,Menu
+menu_removeAds,Rimuovi pubblicità
+menu_rateIt,Scrivi recensione
+menu_contactUs,Contatti
+contactUs_to,@tgfr.com
+contactUs_subject,"%AppName%, %Platform%"
+contactUs_body,\n\n\nNon cancellare questo testo:\nNomeApp: %AppName%\nPiattaforma: %Platfom%\nVersioneApp: %AppVersion%\n
+rateIt_title,Valutazione
+rateIt_body,Vuoi valutare questa App?
+rateIt_confirm,Valuta
+rateIt_cancel,Più tardi
+rasult_download,Salva
+rasult_other,Altro...
+result_picSaved,Salvato
+localNotification_yy_title,Hai immagini non terminate
+localNotification_yy_body,"Ehi, ti aspettano immagini da colorare!"
+localNotification_02_title,Rilassati! ☺️
+localNotification_02_body,Abbiamo un sacco di immagini per te 🎨
+localNotification_03_title,Completa la tua immagine 😜
+localNotification_03_body,✨ Hai una bellissima immagine da colorare 🌺
+localNotification_04_title,È ora di colorare! 🌁 🚀 🌁
+localNotification_04_body,"🤗 Rilassa la mente, colora bellissime immagini! 🤗"
+game_wrongPaint,Cellula sbagliata
+game_wrongPalette,"Nessuna cellula col colore ""1"""
+Caption 3,Per adulti e bambini
+menu_solitaire,Gioca al Solitario
+menu_sudoku,Gioca a Sudoku
+label_daily,Colora ogni giorno
+label_new,Novità
+panel_noInet,Connessione a Internet assente
+popup_noInet_title,Connessione a Internet assente
+popup_noInet_body,Controlla le impostazioni della tua connessione a Internet
+popup_noInet_cancel,Annulla
+popup_noInet_again,Riprova
+popup_sync_body,La sincronizzazione con il server è in corso. Riprova più tardi.
+popup_sync_ok,Ok
+push_daily_title,Colora nuove immagini!
+push_daily_body,Ottieni nuove immagini ogni giorno
+push_newContent_title_01,Grandi novità!
+push_newContent_body_01,Nuove immagini disponibili. Colora subito!
+menu_restorePurchases,Ripristina acquisti
+loading,In caricamento
+tabbar_daily,Giornaliero
+hints_toast_selectColor,Scegli un colore dalla tavolozza
+hints_toast_alreadyColored,Già colorato
+filter_search,Filtro
+filter_showAllCategories,Tutti
+filter_hideColored,Nascondi colorati
+daily_bonus,Bonus giornaliero
+adRewarded_tltle,Altre dritte
+adRewarded_bodyHint,Guarda un annuncio per ottenere una dritta
+adRewarded_bodyMagic,Guarda un video per ottenere dritte
+adRewarded_Cancel,Annulla
+adRewarded_Watch,Guarda
+localNotification_01_title,Mamma mia 😲
+localNotification_01_body,🔥 Che immagine ti aspetta! 🔥
+loading_skip,Salta
+loading_error,Errore di caricamento
+category_bonus_emptyText,Unisciti alla nostra comunità di Facebook e trova immagini esclusive
+category_bonus_emptyButton,Trova altro
+filter_bonus_findMore,Trova altro
+bonus_popup_title,Immagini bonus
+bonus_popup_cta,Riscuoti
+broken_link_title,"Oh, oh!"
+broken_link_body,Il collegamento non era valido. Trova informazioni relativi a eventi sulla nostra pagina di Facebook
+hints_toast_hints0,Nessun annuncio disponibile. Riprovare più tardi.
+filter_bonusPictures,Bonus
+tabbar_news,Notizie
+contextMenu_share,Condividi
+featuredText_open,Apri
+permission_photo,Le immagini saranno salvate su una galleria fotografica.
+terms,Termini d'uso
+tabbar_settings,Impostazioni
+privacy,Politica della privacy seguita
+reclaim_popup_title,Oh Oh! 
+reclaim_popup_body,Hai già richiesto questo bonus
+bad_connect_label,Connessione lenta
+solved_page_share,Condividi 
+solved_page_anim,Anima
+solved_page_save,Salva
+design_upd_line_1,Dai un'occhiata 
+design_upd_line_2,al nostro nuovo
+design_upd_line_3,design!
+design_upd_body,Puoi passare al vecchio design nelle impostazioni
+switch_new_design,Passa al nuovo design
+switch_legacy_design,Passa al vecchio design

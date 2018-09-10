@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: f66cbed3271c48edb965f67e3f5c15ac
+timeCreated: 1536527005
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: news_frame_phone
+    21300002: icon_share_menu
+    21300004: settings_popup_bg_phone
+    21300006: btn_category_1_phone
+    21300008: btn_news_tablet
+    21300010: top_round_settings_btn
+    21300012: settings_btn
+    21300014: error_load_phone
+    21300016: icon_rate
+    21300018: btn_news_phone
+    21300020: swich_off
+    21300022: round_settings_btn
+    21300024: icon_hide_completed
+    21300026: settings_close_btn
+    21300028: fb_cat_empty_label
+    21300030: swich_on
+    21300032: filter_bg
+    21300034: label_daily
+    21300036: btn_category_1_tablet
+    21300038: label_complete_phone
+    21300040: btn_featured_tablet
+    21300042: plate_frame_tablet
+    21300044: legacy_icon
+    21300046: error_load_tablet_p
+    21300048: icon_terms
+    21300050: icon_continue_menu
+    21300052: btn_featured_phone
+    21300054: pagination_indicator
+    21300056: btm_round_settings_btn
+    21300058: label_fb_phone
+    21300060: icon_del_menu
+    21300062: label_new_phone
+    21300064: error_retry
+    21300066: icon_restart_menu
+    21300068: icon_restore_purchase
+    21300070: icon_remove_ads
+    21300072: icon_privacy
+    21300074: icon_contact_us
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: news_frame_phone
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 960
+        width: 364
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_share_menu
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 400
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: settings_popup_bg_phone
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 430
+        width: 511
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 150, y: 150, z: 150, w: 57}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_category_1_phone
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1623
+        width: 369
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 60, y: 0, z: 60, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_news_tablet
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 788
+        width: 196
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: top_round_settings_btn
+      rect:
+        serializedVersion: 2
+        x: 0.04290771
+        y: 1281
+        width: 1155.955
+        height: 117.9733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: settings_btn
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1623
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: error_load_phone
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1535
+        width: 1125
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_rate
+      rect:
+        serializedVersion: 2
+        x: 759.0267
+        y: 1677
+        width: 63.9465
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_news_phone
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1623
+        width: 234
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swich_off
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 788
+        width: 84
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: round_settings_btn
+      rect:
+        serializedVersion: 2
+        x: 0.01111704
+        y: 1145.013
+        width: 1155.976
+        height: 133.9742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_hide_completed
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1326
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: settings_close_btn
+      rect:
+        serializedVersion: 2
+        x: 533.0761
+        y: 1700.076
+        width: 62.92388
+        height: 62.92388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fb_cat_empty_label
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 0.07612038
+        width: 456
+        height: 397.9239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: swich_on
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1677
+        width: 84
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: filter_bg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 984
+        width: 1125
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 40, y: 50, z: 40, w: 20}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: label_daily
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1781.013
+        width: 116.9871
+        height: 116.9603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_category_1_tablet
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1623
+        width: 246
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 50, y: 0, z: 50, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: label_complete_phone
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1326.013
+        width: 116.9871
+        height: 116.9603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_featured_tablet
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1703
+        width: 238
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 50, y: 0, z: 50, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: plate_frame_tablet
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 500
+        width: 474
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: legacy_icon
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 400
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: error_load_tablet_p
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1587.027
+        width: 1536
+        height: 33.97325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_terms
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 852
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_continue_menu
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1623.027
+        width: 50.97325
+        height: 59.97325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btn_featured_phone
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1703
+        width: 291
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 65, y: 0, z: 65, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pagination_indicator
+      rect:
+        serializedVersion: 2
+        x: 1624.076
+        y: 842.0761
+        width: 47.84776
+        height: 47.84776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: btm_round_settings_btn
+      rect:
+        serializedVersion: 2
+        x: 0.01291275
+        y: 1401.013
+        width: 1155.951
+        height: 131.9871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: label_fb_phone
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1781.013
+        width: 116.9871
+        height: 116.9603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_del_menu
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 400
+        width: 48
+        height: 59.94868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: label_new_phone
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 0.01291257
+        width: 116.9871
+        height: 116.9603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: error_retry
+      rect:
+        serializedVersion: 2
+        x: 0.05972838
+        y: 1798.076
+        width: 79.94027
+        height: 68.84776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_restart_menu
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1623
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_restore_purchase
+      rect:
+        serializedVersion: 2
+        x: 607.0761
+        y: 1677.043
+        width: 63.89713
+        height: 67.93034
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_remove_ads
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 852
+        width: 74.92388
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_privacy
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1685
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: icon_contact_us
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 400
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

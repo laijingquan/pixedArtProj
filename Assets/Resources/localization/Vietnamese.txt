@@ -1,0 +1,95 @@
+Id,Vietnamese
+tabbar_usersWorks,Dòng tin của tôi
+appname,Tô theo số
+appname_ios,Tô màu theo số
+tabbar_content,Thư viện
+tabbar_menu,Menu
+contextMenu_continue,Tiếp tục
+contextMenu_restart,Khởi động lại
+contextMenu_delete,Xóa
+menu_title,Menu
+menu_removeAds,Gỡ quảng cáo
+menu_rateIt,Viết nhận xét
+menu_contactUs,Liên hệ với chúng tôi
+contactUs_to,@tgfr.com
+contactUs_subject,"%AppName%,%Platform%"
+contactUs_body,\n\n\nVui lòng không xóa đoạn văn bản này:\nTên Ứng dụng: %AppName%\nNền tảng: %Platfom%\nPhiên bản Ứng dụng: %AppVersion%\n
+rateIt_title,Đánh giá nó
+rateIt_body,Bạn có muốn đánh giá App này không?
+rateIt_confirm,Đánh giá
+rateIt_cancel,Để sau
+rasult_download,Lưu
+rasult_other,Khác...
+result_picSaved,Đã lưu
+localNotification_yy_title,Bạn có bức ảnh chưa hoàn thành
+localNotification_yy_body,Này bạn! Các bức ảnh tô màu đang chờ đợi bạn!
+localNotification_02_title,Hãy thư giãn! ☺️
+localNotification_02_body,Chúng tôi có rất nhiều bức tranh để bạn tô màu 🎨
+localNotification_03_title,Hoàn thành bức ảnh tô màu của bạn 😜
+localNotification_03_body,✨ Bạn có một bức ảnh tuyệt đẹp để tô màu 🌺
+localNotification_04_title,Đã đến lúc tô màu các trang! 🌁 🚀 🌁
+localNotification_04_body,"🤗 Hãy thư giãn cho não bộ, tô màu các bức ảnh tuyệt đẹp! 🤗"
+game_wrongPaint,Sai ô
+game_wrongPalette,"Không có ô nào với màu ""1"""
+Caption 3,Dành cho người lớn và trẻ em
+menu_solitaire,Chơi Solitaire
+menu_sudoku,Chơi Sudoku
+label_daily,Tô màu hàng ngày
+label_new,Mới
+panel_noInet,Không có kết nối internet
+popup_noInet_title,Không có kết nối internet
+popup_noInet_body,Xin hãy kiểm tra các thiết lập kết nối internet của bạn
+popup_noInet_cancel,Hủy
+popup_noInet_again,Thử lại
+popup_sync_body,Đang trong giai đoạn đồng bộ hóa với máy chủ. Hãy thử lại sau.
+popup_sync_ok,Ok
+push_daily_title,Tô màu Ảnh mới!
+push_daily_body,Thưởng thức các hình ảnh mới mọi ngày
+push_newContent_title_01,Tin tức rất tuyệt!
+push_newContent_body_01,Các ảnh mới đã sẵn có. Hãy tô màu ngay!
+menu_restorePurchases,Khôi phục Bản Trả phí
+loading,Đang tải
+tabbar_daily,Hàng ngày
+hints_toast_selectColor,Chọn một màu từbảng màu
+hints_toast_alreadyColored,Đã tô màu
+filter_search,Bộ lọc
+filter_showAllCategories,Tất cả
+filter_hideColored,Ẩn Tô màu
+daily_bonus,Thưởng Hàng ngày
+adRewarded_tltle,Thêm gợi ý
+adRewarded_bodyHint,Xem một quảng cáo đểnhận các gợi ý
+adRewarded_bodyMagic,Xem một quảng cáo đểnhận các gợi ý
+adRewarded_Cancel,Hủy
+adRewarded_Watch,Xem
+localNotification_01_title,Mamma mia 😲
+localNotification_01_body,🔥 Đúng là hình ảnh chỉđể dành cho bạn! 🔥
+loading_skip,Bỏ qua
+loading_error,Đang tải lỗi
+category_bonus_emptyText,Hãy tham gia cộng đồng Facebook của chúng tôi và tìm các hình ảnh dành riêng
+category_bonus_emptyButton,Tìm thêm
+filter_bonus_findMore,Tìm thêm
+bonus_popup_title,Ảnh Giải thưởng
+bonus_popup_cta,Nhận
+broken_link_title,Ồ!
+broken_link_body,Đó là một đường dẫn không hợp lệ. Hãy tìm thông tin về những sự kiện sắp tới trên trang Facebook của chúng tôi.
+hints_toast_hints0,Không có Quảng cáo có sẵn. Thử lại sau.
+filter_bonusPictures,Phần thưởng
+tabbar_news,Tin tức
+contextMenu_share,Chia sẻ
+featuredText_open,Mở
+permission_photo,Hình ảnh sẽ được lưu trong thư viện hình ảnh.
+terms,Các điều khoản sử dụng
+tabbar_settings,Các thiết lập
+privacy,Chính sách bảo mật
+reclaim_popup_title,Ồ!
+reclaim_popup_body,Bạn đã nhận được thưởng này
+bad_connect_label,Kết nối chậm
+solved_page_share,Chia sẻ 
+solved_page_anim,Hiệu ứng
+solved_page_save,Lưu
+design_upd_line_1,Khám phá 
+design_upd_line_2,thiết kế mới của
+design_upd_line_3,chúng tôi!
+design_upd_body,Bạn có thể chuyển sang thiết kế cũ trong các thiết lập
+switch_new_design,Chuyển sang thiết kế mới
+switch_legacy_design,Chuyển sang thiết kế cũ

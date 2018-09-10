@@ -1,0 +1,95 @@
+Id,German
+tabbar_usersWorks,Mein Feed
+appname,Malen nach Zahlen
+appname_ios,Malen nach Zahlen 
+tabbar_content,Bibliothek
+tabbar_menu,Menü
+contextMenu_continue,Weiter
+contextMenu_restart,Neustart
+contextMenu_delete,Löschen
+menu_title,Menü
+menu_removeAds,Werbung entfernen
+menu_rateIt,Rezension schreiben
+menu_contactUs,Uns kontaktieren
+contactUs_to,@tgfr.com
+contactUs_subject,"%AppName%, %Platform%"
+contactUs_body,\n\n\nDiesen Text bitte nicht löschen:\nAppName: %AppName%\nPlattfom: %Platfom%\nAppVersion: %AppVersion%\n
+rateIt_title,Bewerten
+rateIt_body,Möchtest du diese App bewerten?
+rateIt_confirm,Bewerten
+rateIt_cancel,Später
+rasult_download,Speichern
+rasult_other,Sonstige ...
+result_picSaved,Gespeichert
+localNotification_yy_title,Du hast ein unfertiges Bild.
+localNotification_yy_body,Hey! Malvorlagen warten auf dich!
+localNotification_02_title,Lass uns entspannen! ☺️
+localNotification_02_body,"Wir haben viele Bilder, die du ausmalen kannst. 🎨"
+localNotification_03_title,Vollende deine Malvorlage 😜
+localNotification_03_body,✨ Du kannst ein wunderschönes Bild ausmalen 🌺
+localNotification_04_title,Es ist Zeit für Malvorlagen! 🌁 🚀 🌁
+localNotification_04_body,"🤗 Entspanne dein Gehirn, male schöne Bilder aus! 🤗"
+game_wrongPaint,Falsche Zelle
+game_wrongPalette,"Keine Zellen mit der Farbe ""1"""
+Caption 3,Für Erwachsene und Kinder
+menu_solitaire,Solitaire spielen
+menu_sudoku,Sudoku spielen
+label_daily,Tägliches ausmalen
+label_new,Neu
+panel_noInet,Keine Internetverbindung
+popup_noInet_title,Keine Internetverbindung
+popup_noInet_body,Bitte prüfe die Einstellungen deiner Internetverbindung
+popup_noInet_cancel,Abbrechen
+popup_noInet_again,Erneut versuchen
+popup_sync_body,Der Server wird derzeit synchronisiert. Versuche es später erneut.
+popup_sync_ok,Ok
+push_daily_title,Male ein neues Bild aus!
+push_daily_body,Genieße täglich neue Bilder
+push_newContent_title_01,Tolle Neuigkeiten!
+push_newContent_body_01,Neue Bilder sind verfügbar. Male sie jetzt aus!
+menu_restorePurchases,Käufe wiederherstellen
+loading,Wird geladen
+tabbar_daily,Täglich
+hints_toast_selectColor,Wähle eine Farbe von der Palette
+hints_toast_alreadyColored,Bereits angemalt
+filter_search,Filter
+filter_showAllCategories,Alle
+filter_hideColored,Angemalte verbergen
+daily_bonus,Täglicher Bonus
+adRewarded_tltle,Mehr Hinweise
+adRewarded_bodyHint,Werbung für Hinweis ansehen
+adRewarded_bodyMagic,Werbung für Hinweise ansehen
+adRewarded_Cancel,Abbrechen
+adRewarded_Watch,Ansehen
+localNotification_01_title,Mamma mia 😲
+localNotification_01_body,🔥 Was für ein Bild erwartet dich! 🔥
+loading_skip,Überspringen
+loading_error,Ladefehler
+category_bonus_emptyText,Werde Teil unserer Facebook-Community und freue dich über exklusive Bilder
+category_bonus_emptyButton,Mehr finden
+filter_bonus_findMore,Mehr finden
+bonus_popup_title,Bonusbilder
+bonus_popup_cta,Einlösen
+broken_link_title,Oh!
+broken_link_body,Dieser Link ist ungültig. Informationen über bevorstehende Events findest du auf unserer Facebook-Seite.
+hints_toast_hints0,Keine Anzeige vorhanden. Versuchen Sie es später noch einmal.
+filter_bonusPictures,Bonus
+tabbar_news,Neuigkeiten
+contextMenu_share,Teilen
+featuredText_open,Öffnen
+permission_photo,Fotos werden in der Fotogalerie gespeichert.
+terms,Nutzungsbedingung
+tabbar_settings,Einstellungen
+privacy,Datenschutzrichtlinien
+reclaim_popup_title,Ups! 
+reclaim_popup_body,Du hast diesen Bonus bereits eingelöst
+bad_connect_label,Langsame Verbindung
+solved_page_share,Teilen 
+solved_page_anim,Animieren
+solved_page_save,Speichern
+design_upd_line_1,Schau
+design_upd_line_2,dir unser neues 
+design_upd_line_3,Design an!
+design_upd_body,Du kannst in den Einstellungen wieder zum alten Design wechseln
+switch_new_design,Zum neuen Design wechseln
+switch_legacy_design,Zum alten Design wechseln

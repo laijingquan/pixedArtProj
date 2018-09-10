@@ -1,0 +1,95 @@
+Id,Portuguese
+tabbar_usersWorks,Meu feed
+appname,Pinte por números
+appname_ios,Colorir por números 
+tabbar_content,Biblioteca
+tabbar_menu,Menu
+contextMenu_continue,Continuar
+contextMenu_restart,Reiniciar
+contextMenu_delete,Excluir
+menu_title,Menu
+menu_removeAds,Remover anúncios
+menu_rateIt,Escreva uma avaliação
+menu_contactUs,Fale conosco
+contactUs_to,@tgfr.com
+contactUs_subject,"%AppName%, %Platform%"
+contactUs_body,"\n\n\nPor favor, não exclua este texto:\nAppName: %AppName%\nPlatfom: %Platfom%\nAppVersion: %AppVersion%\n"
+rateIt_title,Avalie-o
+rateIt_body,Gostaria de avaliar este aplicativo?
+rateIt_confirm,Avaliar
+rateIt_cancel,Depois
+rasult_download,Salvar
+rasult_other,Outro...
+result_picSaved,Salvo
+localNotification_yy_title,Você tem imagem não finalizada
+localNotification_yy_body,Olá! Imagens para colorir estão esperando por você!
+localNotification_02_title,Vamos relaxar! ☺️
+localNotification_02_body,Temos muitas imagens para você colorir 🎨
+localNotification_03_title,Termine de pintar sua imagem 😜
+localNotification_03_body,✨ Você tem uma bela imagem para pintar 🌺
+localNotification_04_title,É hora de colorir páginas! 🌁 🚀 🌁
+localNotification_04_body,"🤗 Relaxe seu cérebro, pinte imagens bonitas! 🤗"
+game_wrongPaint,Célula errada
+game_wrongPalette,"Nenhuma célula com a cor ""1"""
+Caption 3,Para adultos e crianças
+menu_solitaire,Jogar paciência
+menu_sudoku,Jogar sudoku
+label_daily,Pintura diária
+label_new,Novo
+panel_noInet,Sem conexão de internet
+popup_noInet_title,Sem conexão de internet
+popup_noInet_body,"Por favor, verifique suas configurações de conexão de internet"
+popup_noInet_cancel,Cancelar
+popup_noInet_again,Tentar novamente
+popup_sync_body,Sincronização com o servidor em progresso. Tente novamente mais tarde.
+popup_sync_ok,Ok
+push_daily_title,Pinte nova imagem!
+push_daily_body,Divirta-se com novas imagens diariamente
+push_newContent_title_01,Ótima notícia!
+push_newContent_body_01,Novas imagens estão disponíveis. Pinte agora!
+menu_restorePurchases,Restaurar compras
+loading,Carregando
+tabbar_daily,Diariamente
+hints_toast_selectColor,Escolha uma cor da paleta
+hints_toast_alreadyColored,Já pintado
+filter_search,Filtro
+filter_showAllCategories,Todas
+filter_hideColored,Ocultar pintados
+daily_bonus,Bônus diário
+adRewarded_tltle,Mais dicas
+adRewarded_bodyHint,Assista a um anúncio para ganhar uma dica
+adRewarded_bodyMagic,Assista a um anúncio para ganhar dicas
+adRewarded_Cancel,Cancelar
+adRewarded_Watch,Assistir
+localNotification_01_title,Minha nossa senhora 😲
+localNotification_01_body,🔥 Que imagem está esperando por você! 🔥
+loading_skip,Pular
+loading_error,Erro de carregamento
+category_bonus_emptyText,Entre na nossa comunidade do Facebook e encontre imagens exclusivas
+category_bonus_emptyButton,Saiba mais
+filter_bonus_findMore,Saiba mais
+bonus_popup_title,Imagens bônus
+bonus_popup_cta,Reivindicar
+broken_link_title,Oh-oh!
+broken_link_body,Esse link é inválido. Encontre informações sobre os próximos eventos na nossa página do Facebook
+hints_toast_hints0,Nenhum anúncio disponível. Tente mais tarde.
+filter_bonusPictures,Bônus
+tabbar_news,Novidades
+contextMenu_share,Compartilhar
+featuredText_open,Abrir
+permission_photo,As imagens serão salvas na galeria de fotos.
+terms,Termos de uso
+tabbar_settings,Configurações
+privacy,Política de privacidade
+reclaim_popup_title,Oh-oh! 
+reclaim_popup_body,Você já reivindicou esse bônus
+bad_connect_label,Conexão lenta
+solved_page_share,Compartilhar 
+solved_page_anim,Animar
+solved_page_save,Salvar
+design_upd_line_1,Confira 
+design_upd_line_2,nosso design 
+design_upd_line_3,novo!
+design_upd_body,Você pode mudar para o design antigo nas configurações
+switch_new_design,Mudar para o design novo
+switch_legacy_design,Mudar para o design antigo
